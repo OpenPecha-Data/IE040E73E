@@ -1,0 +1,36 @@
+id: IE040E73E
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T22:23:45.495291'
+last_modified: '2022-06-18T22:23:45.495305'
+parser: null
+source_metadata:
+  title: Shākya don grubs Sakya Genealogy
+  author: ཤཱཀྱའི་དགེ་སློང་ཤཱཀྱ་དོན་གྲུབ་དཔལ་བཟང་པོ།
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2018-09-06);
+    revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Lobsang Gyaltsen, Dharamsala (lg)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:ཚེ་རིང་གྲོང་ཤར། (ut)
+  text_witnesses: https://sakyaresearch.org/sources/2436
+  bases:
+    924b:
+      title: Shākya don grubs Sakya Genealogy
+      order: 1
+      base_file: 924b.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
